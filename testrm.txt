@@ -1,2 +1,0 @@
-this is just to try the rm operation
-in Git.So,the content here takes no weight
